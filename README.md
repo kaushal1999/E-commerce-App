@@ -1,16 +1,9 @@
-# shop
+E-COMMERCE APP
 
-A new Flutter project.
+The project is an easy to use online shopping app. It has features to add products to cart, place an order, see details of the products. It provides a Sign-up interface to new customers & Log-in interface is also there. Users can also add products to a favourite list and can see all those products in a single place.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Technologies Used:
+- Dart
+- Flutter
+- HTML
+- Firebase
